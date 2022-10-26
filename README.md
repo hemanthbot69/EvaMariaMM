@@ -1,3 +1,12 @@
+## • What's New ?
+
+- ⟴ Self Delete Added (Auto delete)
+- ⟴ Filter On Off Option Added
+- ⟴ Custom Welcome Message
+- ⟴ Custom Texts (About, Help, Stats,More..)
+- ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
+
+
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
@@ -47,6 +56,12 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/8769ANURAG/EvaMaria/blob/master/info.py) for more
+* ## EXTRA FEATURES
+* `SELF_DELETE`: True if SELF_DELETE is On, False if Off
+* `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
+* `START_TXT`: Enter Your Start Message
+* `ABOUT_TXT`: Enter Your About Message 
+
 
 
 ## Deploy
